@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Zoestha UG",
+    "occupation":"development company",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"Experienced application Engineer with a demonstrated history of working in the electrical and electronic manufacturing industry. Skilled in Acoustics, C++, software development, Electrical Engineering and Matlab. Strong engineering professional with a Msc focused in Electrical engineering from Aalborg university.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "info@zoestha.de",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"Fockestr, 23",
+      "city":"Leipzig",
+      "state":"Saxony",
+      "zip": "04275"
+    },
+    "website": "https://zoestha.de",
+    "resumedownload":"https://zoestha.de",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sebbarre/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/sheub",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Aalborg University",
+        "degree":"Masters of Science in Electrical Engineering",
+        "graduated":"June 2003",
+        "description":"Three semesters program including fundamental and advanced courses in acoustics and signal processing."
+      },
+      {
+        "school":"ESIEE Paris",
+        "degree":"Masters of Science in Electrical Engineering",
+        "graduated":"June 2003",
+        "description":"Master of Sciences in electrical engineering; Specialization in signal processing and telecommunication systems"
+      }
+    ],
+    "work":[
+      {
+        "company":"GFaI Gesellschaft zur Förderung angewandter Informatik e. V.",
+        "title":"Acoustic Application Engineer",
+        "years":"October 2012 - December 2017",
+        "description":"Software development in Digital Signal Processing with application to architectural and psycho-acoustic and sound intensity. On-site measurement and expertise on behalf of GFaI."
+      },
+      {
+        "company":"SINUS Messtechnik GmbH",
+        "title":"Acoustic Application Engineer",
+        "years":"November 2005 – Oct 2012",
+        "description":"Customer advisory service and support; representation on international congress and exhibitions; software development for psycho-acoustic analysis (Loudness, Sharpness, Roughness) and architectural acoustics (Speech Transmission Index, Energy parameters)."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C#/C++",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"javascript",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"php",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Leipzig Einkaufen",
+        "category":"A Store Locator for Leipzig independant retail stores",
+        "image":"LeipzigEinkaufen2.png",
+        "url":"https://leipzig-einkaufen.de"
+      },
+      {
+        "title":"La choclaterie",
+        "category":"Website I build for a café I like in Leipzig",
+        "image":"chocolaterie_Start.jpg",
+        "url":"https://la-chocolaterie.de"
+      },
+      {
+        "title":"Faconnes",
+        "category":"A Webapp for site seeing and going out in France",
+        "image":"marvelous_map.png",
+        "url":"https://faconnes.de"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
